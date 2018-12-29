@@ -1,3 +1,5 @@
+# Repo courtesy: coreos/flannel
+
 # flannel
 
 ![flannel Logo](logos/flannel-horizontal-color.png)
